@@ -1,16 +1,21 @@
-### Hi there 👋
+### Fala Dev 👋
+<br>
+<br>
+Me chamo Fábio, tenho 23 anos e no momento sou Programador Front End, estou criando projetos com HTML, CSS e Javascript.
+<br>
+Estou na busca de me tornar Fullstack, e pra isso estou estudando Framework's como React e Node.js
+<br>
+<br>
+Contato:
+<br>
 
-<!--
-**Perez027/Perez027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:camera:<a href="https://www.instagram.com/perez.027/">Instagram<a/>
+<br>
+:office:<a href="https://www.linkedin.com/in/fabio-augusto-3746b521a/">LinkedIn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Perez-stats](https://github-readme-stats.vercel.app/api?username=Perez027&show_icons=true&theme=transparent)
+  
+  <br>
+  <br>
+  
+  
