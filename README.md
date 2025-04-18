@@ -1,7 +1,7 @@
 ### Fala Dev 👋
 <br>
 <br>
-Me chamo Fábio, tenho 25 anos e sou estudante de programação, pretendo me tornar FullStack.
+Sou Fábio, tenho 25 anos e sou estudante de programação, pretendo me tornar FullStack.
 
 <br>
 <br>
