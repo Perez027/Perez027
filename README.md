@@ -1,9 +1,8 @@
 ### Fala Dev 👋
 <br>
 <br>
-Me chamo Fábio, tenho 23 anos e no momento sou Programador Front End, estou criando projetos com HTML, CSS e Javascript.
-<br>
-Estou na busca de me tornar Fullstack, e pra isso estou estudando Framework's como React e Node.js
+Me chamo Fábio, tenho 25 anos e sou estudante de programação, pretendo me tornar FullStack.
+
 <br>
 <br>
 Contato:
